@@ -10,7 +10,7 @@ Images from Adafruit Circuit Playground Characters
 pxt install
 ```
 
-* after updating ``circuitplayground/adafruit.png``, run
+* after adding PNG files in ``circuitplayground/``, run
 ```
 pxt buildsprites circuitplayground
 ```

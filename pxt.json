@@ -4,7 +4,7 @@
     "description": "Images from Adafruit",
     "license": "MIT",
     "dependencies": {
-        "screen": "*"
+        "device": "*"
     },
     "files": [
         "README.md",
