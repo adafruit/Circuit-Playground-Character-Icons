@@ -1,0 +1,19 @@
+{
+    "name": "pxt-circuit-playground-character-icons",
+    "version": "0.0.0",
+    "description": "Images from Adafruit",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "circuitplayground.ts",
+        "circuitplayground.jres"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "additionalFilePaths": []
+}
