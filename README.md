@@ -2,21 +2,24 @@
 
 Images from Adafruit
 
-
 ## To regenerate images
 
-* clone this repo in local install of https://github.com/Microsoft/pxt-arcade under /projects
-* run 
+* clone this repo in local install of https://github.com/Microsoft/pxt-arcade under ``/projects``
+* you'll need to prep the project by running
 ```
 pxt install
 ```
 
-* run
+* after updating ``circuitplayground/adafruit.png``, run
 ```
 pxt buildsprites circuitplayground
 ```
+* commit your changes
+* bump
 
-Read more at https://arcade.makecode.com/packages/build-your-own
+```
+pxt bump
+```
 
 ## License
 
