@@ -1,6 +1,6 @@
 # Circuit-Playground-Character-Icons
 
-Images from Adafruit
+Images from Adafruit Circuit Playground Characters
 
 ## To regenerate images
 
