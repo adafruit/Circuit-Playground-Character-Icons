@@ -4,7 +4,8 @@
     "description": "Images from Adafruit",
     "license": "MIT",
     "dependencies": {
-        "screen": "*"
+        "screen": "*",
+        "device": "file:../../libs/device"
     },
     "files": [
         "README.md",
@@ -15,5 +16,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
