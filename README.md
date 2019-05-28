@@ -9,6 +9,8 @@ Images from Adafruit Circuit Playground Characters
 ```
 pxt install
 ```
+* add ``"device": "file:../../libs/device"`` to ``pxt.json`` to run the cli
+
 
 * after adding PNG files in ``circuitplayground/``, run
 ```
