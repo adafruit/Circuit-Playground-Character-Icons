@@ -6,7 +6,7 @@
     circuitplayground.Minerva,
     circuitplayground.Sparky
 ].forEach(i => {
-    let sprite = sprites.create(i)
+    let sprite = sprites.create(i.doubled().doubled())
     sprite.setVelocity(Math.randomRange(-60, 60), Math.randomRange(-60, 60))
     sprite.setFlag(SpriteFlag.BounceOnWall, true)
 })
