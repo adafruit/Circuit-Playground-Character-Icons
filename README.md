@@ -1,3 +1,7 @@
+----
+name: Adafruit Circuit Playground Character Icons for MakeCode Arcade
+----
+
 # Circuit-Playground-Character-Icons
 
 Images from Adafruit Circuit Playground Characters

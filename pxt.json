@@ -14,5 +14,9 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
